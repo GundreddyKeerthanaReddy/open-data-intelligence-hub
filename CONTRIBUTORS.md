@@ -50,3 +50,7 @@ Student contributor names can be added below as the projects are completed.
 | Atit Patel | G40 AI/ML Batch | Sports performance warehouse |
 | G Meher Sai       |G40  AI/ML Batch | Global Happiness Analytics Platform|
 | Abhiram Kodali  -| G40 AI/ML Batch |  Olympic Performance Analytics |
+| Kavita Kanchan | G40 AL/ML Batch | Olympic Medal Intelligence Platform |
+| S.Gayathri | G40 AI/ML Batch | Quality of Life Intelligence Platform |
+| Sireesha | G40 AI/ML | Cliamte Anomaly Detection |
+
